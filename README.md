@@ -1,2 +1,2 @@
 # sak_2802
-A curated loist of awesome github profile READMEs
+A curated list of awesome github profile READMEs
